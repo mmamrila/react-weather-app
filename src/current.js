@@ -4,7 +4,7 @@ export default class Current extends React.Component {
   render() {
     return (
       <div className="main">
-        <div className="currentlyIn">currently</div>
+        <p className="currentlyIn">Currently in <span></span></p>
         <div className="high">High</div>
         <div className="current">Current</div>
         <div className="low">Low</div>
