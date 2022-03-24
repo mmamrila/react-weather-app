@@ -1,0 +1,19 @@
+.search {
+  height: 66px;
+  background: rgba(45, 45, 45, 0.53);
+}
+
+.searchBar {
+  width: 289px;
+  height: 29px;
+  border-radius: 19px;
+  background: #FFFFFF;
+  display: flex;
+  align-items: center;
+  top: 15px;
+  left: 28px;
+}
+
+.background {
+  width: 100%;
+}
